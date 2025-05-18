@@ -1,0 +1,11 @@
+﻿using EventEase.Models;
+
+namespace EventEase.Models
+{
+    public class ErrorViewModel
+    {
+        public string? RequestId { get; set; }
+
+        public bool ShowRequestId => !string.IsNullOrEmpty(RequestId);
+    }
+}

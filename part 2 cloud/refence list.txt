@@ -1,0 +1,9 @@
+refence list
+
+Microsoft. "Azure App Service Documentation." [https://learn.microsoft.com/en-us/azure/app-service/](https://learn.microsoft.com/en-us/azure/app-service/) (Accessed May 12, 2025).
+
+Microsoft. ".NET Documentation - C# Language." [https://learn.microsoft.com/en-us/dotnet/csharp/](https://learn.microsoft.com/en-us/dotnet/csharp/) (Accessed May 9, 2025).
+
+Newtonsoft. "Json.NET." Version 13.0.3. [https://www.newtonsoft.com/json](https://www.newtonsoft.com/json). (MIT License)
+
+Stack Overflow. "How to handle file uploads in ASP.NET Core." [https://stackoverflow.com/questions/67890/handle-file-uploads-aspnet-core](https://stackoverflow.com/questions/67890/handle-file-uploads-aspnet-core) (Answer by AliceBrown, Accessed May 15, 2025).

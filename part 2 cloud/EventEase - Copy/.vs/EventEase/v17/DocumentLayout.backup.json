@@ -1,0 +1,405 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\azuritestorage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\azuritestorage\\istorageservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\azuritestorage\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\azuritestorage\\blobservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\views\\bookingviewmodel\\enhancedindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\bookingviewmodel\\enhancedindex.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\migrations\\20250513135340_mssql_migration_253.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\migrations\\20250513135340_mssql_migration_253.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\venue.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\eventease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\eventease.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\controller\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controller\\venuecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\controller\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controller\\bookingcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\pages\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\venue\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\views\\shared\\validationscriptspartial.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\shared\\validationscriptspartial.razor||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\home\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\models\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\bookingviewmodel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\views\\venue\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\venue\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\venue\\delete.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\migrations\\applicationdbcontextmodelsnapshot.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\controller\\bookingviewmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controller\\bookingviewmodelcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\booking\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\views\\venue\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\controller\\homecontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|c:\\users\\goven\\desktop\\part 2 cloud\\part 2 cloud\\eventease - copy\\eventease\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0D4E86CD-24B4-4C25-A1F0-A46C581D367D}|EventEase\\EventEase.csproj|solutionrelative:eventease\\pages\\index.cshtml.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 100,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "IStorageService.cs",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\AzuriteStorage\\IStorageService.cs",
+              "RelativeDocumentMoniker": "EventEase\\AzuriteStorage\\IStorageService.cs",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\AzuriteStorage\\IStorageService.cs",
+              "RelativeToolTip": "EventEase\\AzuriteStorage\\IStorageService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:56:51.559Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BlobService.cs",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\AzuriteStorage\\BlobService.cs",
+              "RelativeDocumentMoniker": "EventEase\\AzuriteStorage\\BlobService.cs",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\AzuriteStorage\\BlobService.cs",
+              "RelativeToolTip": "EventEase\\AzuriteStorage\\BlobService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-18T17:56:46.473Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Venue.cs",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Models\\Venue.cs",
+              "RelativeDocumentMoniker": "EventEase\\Models\\Venue.cs",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Models\\Venue.cs",
+              "RelativeToolTip": "EventEase\\Models\\Venue.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T16:44:16.633Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAAB4AAAAAAAAAAAAAADUAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T14:23:17.067Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "BookingController.cs",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Controller\\BookingController.cs",
+              "RelativeDocumentMoniker": "EventEase\\Controller\\BookingController.cs",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Controller\\BookingController.cs",
+              "RelativeToolTip": "EventEase\\Controller\\BookingController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T12:41:21.929Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "EnhancedIndex.cshtml",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\BookingViewModel\\EnhancedIndex.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\BookingViewModel\\EnhancedIndex.cshtml",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\BookingViewModel\\EnhancedIndex.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\BookingViewModel\\EnhancedIndex.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC0AAAALAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T14:19:58.863Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Pages\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Pages\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Pages\\Index.cshtml",
+              "RelativeToolTip": "EventEase\\Pages\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:44:55.982Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "EventEase.csproj",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\EventEase.csproj",
+              "RelativeDocumentMoniker": "EventEase\\EventEase.csproj",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\EventEase.csproj",
+              "RelativeToolTip": "EventEase\\EventEase.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-05-13T13:39:05.045Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "VenueController.cs",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Controller\\VenueController.cs",
+              "RelativeDocumentMoniker": "EventEase\\Controller\\VenueController.cs",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Controller\\VenueController.cs",
+              "RelativeToolTip": "EventEase\\Controller\\VenueController.cs",
+              "ViewState": "AgIAACAAAAAAAAAAAAAwwDEAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-12T21:07:36.656Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "20250513135340_mssql_migration_253.cs",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Migrations\\20250513135340_mssql_migration_253.cs",
+              "RelativeDocumentMoniker": "EventEase\\Migrations\\20250513135340_mssql_migration_253.cs",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Migrations\\20250513135340_mssql_migration_253.cs",
+              "RelativeToolTip": "EventEase\\Migrations\\20250513135340_mssql_migration_253.cs",
+              "ViewState": "AgIAADEAAAAAAAAAAAAgwAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:14:18.463Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Home\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Home\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Home\\Index.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Home\\Index.cshtml",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABwAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T10:30:57.251Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Venue\\Create.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Venue\\Create.cshtml",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Venue\\Create.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Venue\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAC8AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T14:12:37.441Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "ValidationScriptsPartial.razor",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Shared\\ValidationScriptsPartial.razor",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Shared\\ValidationScriptsPartial.razor",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Shared\\ValidationScriptsPartial.razor",
+              "RelativeToolTip": "EventEase\\Views\\Shared\\ValidationScriptsPartial.razor",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:21:08.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 13,
+              "Title": "BookingViewModel.cs",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Models\\BookingViewModel.cs",
+              "RelativeDocumentMoniker": "EventEase\\Models\\BookingViewModel.cs",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Models\\BookingViewModel.cs",
+              "RelativeToolTip": "EventEase\\Models\\BookingViewModel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAqwAkAAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:33:18.475Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 18,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Models\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "EventEase\\Models\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Models\\ApplicationDbContext.cs",
+              "RelativeToolTip": "EventEase\\Models\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:14:47.549Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 20,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "EventEase\\Models\\Booking.cs",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Models\\Booking.cs",
+              "RelativeToolTip": "EventEase\\Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAARAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:15:07.715Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 14,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Venue\\Details.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Venue\\Details.cshtml",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Venue\\Details.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Venue\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:07:43.753Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 21,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Venue\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Venue\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Venue\\Index.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Venue\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T14:18:26.852Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 15,
+              "Title": "Delete.cshtml",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Venue\\Delete.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Venue\\Delete.cshtml",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Venue\\Delete.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Venue\\Delete.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T16:07:38.379Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 16,
+              "Title": "ApplicationDbContextModelSnapshot.cs",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeDocumentMoniker": "EventEase\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "RelativeToolTip": "EventEase\\Migrations\\ApplicationDbContextModelSnapshot.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:13:44.498Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 19,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Booking\\Index.cshtml",
+              "RelativeDocumentMoniker": "EventEase\\Views\\Booking\\Index.cshtml",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Views\\Booking\\Index.cshtml",
+              "RelativeToolTip": "EventEase\\Views\\Booking\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAD0AAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2025-05-13T14:38:14.228Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 17,
+              "Title": "BookingViewModelController.cs",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Controller\\BookingViewModelController.cs",
+              "RelativeDocumentMoniker": "EventEase\\Controller\\BookingViewModelController.cs",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Controller\\BookingViewModelController.cs",
+              "RelativeToolTip": "EventEase\\Controller\\BookingViewModelController.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAqwA0AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:47:59.466Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 23,
+              "Title": "Index.cshtml.cs",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Pages\\Index.cshtml.cs",
+              "RelativeDocumentMoniker": "EventEase\\Pages\\Index.cshtml.cs",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Pages\\Index.cshtml.cs",
+              "RelativeToolTip": "EventEase\\Pages\\Index.cshtml.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T14:13:09.793Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 22,
+              "Title": "HomeController.cs",
+              "DocumentMoniker": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Controller\\HomeController.cs",
+              "RelativeDocumentMoniker": "EventEase\\Controller\\HomeController.cs",
+              "ToolTip": "C:\\Users\\goven\\Desktop\\part 2 cloud\\part 2 cloud\\EventEase - Copy\\EventEase\\Controller\\HomeController.cs",
+              "RelativeToolTip": "EventEase\\Controller\\HomeController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-05-13T10:28:54.165Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
